@@ -72,12 +72,12 @@
     <Content Include="assets\img\profile.jpg" />
     <Content Include="Awards.html" />
     <Content Include="css\styles.css" />
-    <Content Include="Education.html" />
-    <Content Include="Experience.html" />
+    <Content Include="Portfolio.html" />
+    <Content Include="Resume.html" />
     <Content Include="index.html" />
-    <Content Include="Interests.html" />
+    <Content Include="Contact.html" />
     <Content Include="js\scripts.js" />
-    <Content Include="Skills.html" />
+    <Content Include="Links.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
