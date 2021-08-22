@@ -67,13 +67,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\img\-s4a0xj.jpg" />
+    <Content Include="assets\img\amandaallen %281%29.jpg" />
     <Content Include="assets\img\annie-spratt-wuc-KEIBrdE-unsplash %281%29.jpg" />
-    <Content Include="assets\img\christopher-campbell-rDEOVtE7vOs-unsplash %281%29.jpg" />
+    <Content Include="assets\img\calebmitchell %281%29.jpg" />
+    <Content Include="assets\img\DungeonApp.png" />
     <Content Include="assets\img\favicon.ico" />
-    <Content Include="assets\img\FED1 %281%29.jpg" />
-    <Content Include="assets\img\image0.jpg" />
-    <Content Include="assets\img\IMG_0468.jpg" />
-    <Content Include="assets\img\profile.jpg" />
+    <Content Include="assets\img\FED1 %282%29.jpg" />
+    <Content Include="assets\img\jacobroelofsz %281%29.jpg" />
+    <Content Include="assets\img\michaelrussell %281%29.jpg" />
+    <Content Include="assets\img\personalsite size.jpg" />
+    <Content Include="assets\img\profilepic.jpg" />
     <Content Include="Awards.html" />
     <Content Include="css\styles.css" />
     <Content Include="Portfolio.html" />
